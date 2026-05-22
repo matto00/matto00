@@ -26,10 +26,10 @@
 My fork of [KikiManjaro/intellify](https://github.com/KikiManjaro/intellify) — a minimal Spotify integration for IntelliJ that puts the current track and playback controls right in the IDE status bar.
 
 ### [neobuddy.nvim](https://github.com/matto00/neobuddy.nvim)
-A small neovim plugin. *(one-liner coming)*
+A lualine component with a little dog who walks across your statusline based on how far you've scrolled through the buffer. Sits when you stop, walks when you move.
 
 ### [Chess](https://github.com/matto00/Chess)
-A Python chess project. *(one-liner coming)*
+A Python chess toolkit — parses PGN game files into a SQLite database, lets you browse them through a GUI, and renders games out as video.
 
 ---
 
@@ -51,6 +51,6 @@ A Python chess project. *(one-liner coming)*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=matto00&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent" alt="matto00's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=matto00&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=00000000&title_color=F7B538&icon_color=F7B538" alt="matto00's GitHub stats" />
 
 </div>
