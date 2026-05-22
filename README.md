@@ -51,6 +51,10 @@ A Python chess toolkit — parses PGN game files into a SQLite database, lets yo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=matto00&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=00000000&title_color=F7B538&icon_color=F7B538" alt="matto00's GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=matto00&hide_border=true&background=00000000&stroke=F7B538&ring=F7B538&fire=F7B538&currStreakLabel=F7B538&sideLabels=F7B538&dates=F7B538&sideNums=F7B538&currStreakNum=F7B538" alt="matto00's GitHub streak" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=matto00&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="matto00's GitHub trophies" />
 
 </div>
