@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=F7B538&center=true&vCenter=true&width=620&lines=Mid-Level+Software+Engineer;Building+helio%2C+my+AI-native+data+hub;UCSB+Stats+%26+DS+%2F+Linguistics+grad;Arch+Linux+%2B+Hyprland%2C+because+why+not)](https://github.com/matto00)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=F7B538&center=true&vCenter=true&width=620&lines=Software+Engineer;Building+helio%2C+my+AI-native+data+hub;UCSB+Stats+%26+DS+%2F+Linguistics+grad)](https://github.com/matto00)
 
 </div>
 
 ---
 
-## helio — my "Jarvis"
+## helio
 
 > An AI-native data ingestion and analytics platform. My personal hub for synthesizing data, surfacing trends, and monitoring real-time activity — the home base that every current and future side project will plug into.
 
